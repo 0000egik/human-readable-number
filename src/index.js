@@ -1,1 +1,1 @@
-System.out.printf(5);
+toReadable ( 543 ) ; 
