@@ -1,1 +1,3 @@
-toReadable ( 543 ) ; 
+module.exports = function toReadable (number) {
+  
+}
