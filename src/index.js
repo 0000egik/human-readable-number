@@ -1,2 +1,2 @@
 var num = 534;
-String(534);
+System.out.printf(num);
