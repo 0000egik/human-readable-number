@@ -1,4 +1,4 @@
-module.exports = function toReadable (number) {
+  module.exports = function toReadable (number) {
       const numbers = {
         0: "zero",
         1: "one",
@@ -29,5 +29,8 @@ module.exports = function toReadable (number) {
         80: "eighty",
         90: "ninety",
     };
+	    if (number == 0) {
+        return 0;
+    }
   
 };
